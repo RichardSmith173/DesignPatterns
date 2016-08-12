@@ -8,11 +8,13 @@ using PolicyHost.Enumerations;
 
 namespace PolicyTest.Seed
 {
-    static class PolicyDetails
+    class PolicyDetails : DataGenerator<PolicyHost.Entity.PolicyDetails>
     {
-        internal static ICollection<PolicyHost.Entity.PolicyDetails> PolicyDetailsData { get; set; } = SeedPolicyDetails();
+        CreateEntity policyDetails = new CreateEntity(SeedEntity);
 
-        private static ICollection<PolicyHost.Entity.PolicyDetails> SeedPolicyDetails()
+        internal static IEnumerable<PolicyHost.Entity.PolicyDetails> PolicyDetailsData { get; set; } = SeedEntity();
+
+        private static IEnumerable<PolicyHost.Entity.PolicyDetails> SeedEntity()
         {
             var policyDetails = new List<PolicyHost.Entity.PolicyDetails>
             {

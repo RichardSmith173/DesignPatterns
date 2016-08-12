@@ -7,6 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data.Entity;
 using PolicyHost.Entity;
+using PolicyValidate.Validators;
 
 namespace PolicyTest
 {
@@ -20,7 +21,7 @@ namespace PolicyTest
             var mockDbSet = SetupTable(policyDetails, new Mock<IDbSet<PolicyDetails>>());
             mockDbContext.Setup(x => x.PolicyDetails).Returns(mockDbSet.Object);
 
-            return new PolicyContext(mockDbContext.Object);
+            return new PolicyContext(mockDbContext.Object, new ValidatePolicy());
         }
 
         private static Mock<IDbSet<T>> SetupTable<T>(List<T> data, Mock<IDbSet<T>> dbSetMock) where T : BaseEntity

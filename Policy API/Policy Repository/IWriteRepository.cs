@@ -8,5 +8,6 @@ namespace PolicyRepository
 {
     interface IWriteRepository<T>
     {
+        void Add(T entity);
     }
 }

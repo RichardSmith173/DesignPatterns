@@ -63,6 +63,8 @@
   <ItemGroup>
     <Compile Include="Mock\DatabaseSetup.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Seed\DataGenerator.cs" />
+    <Compile Include="Seed\IDataGenerator.cs" />
     <Compile Include="Seed\PolicyDetails.cs" />
     <Compile Include="UnitTests\PolicyContextTest.cs" />
   </ItemGroup>
@@ -79,6 +81,10 @@
     <ProjectReference Include="..\Policy Repository\PolicyRepository.csproj">
       <Project>{1215371B-A483-4602-A864-26581982C4D0}</Project>
       <Name>PolicyRepository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Policy Validate\PolicyValidate.csproj">
+      <Project>{A38FF33F-F5C8-44CD-B898-E91381B88E51}</Project>
+      <Name>PolicyValidate</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
