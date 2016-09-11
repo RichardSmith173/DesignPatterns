@@ -1,0 +1,6 @@
+c:\users\richard\documents\visual studio 2013\Projects\Patterns\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+c:\users\richard\documents\visual studio 2013\Projects\Patterns\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.csprojResolveAssemblyReference.cache
+c:\users\richard\documents\visual studio 2013\Projects\Patterns\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.exe
+c:\users\richard\documents\visual studio 2013\Projects\Patterns\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.pdb
+c:\users\richard\documents\visual studio 2013\Projects\Patterns\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.exe
+c:\users\richard\documents\visual studio 2013\Projects\Patterns\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.pdb

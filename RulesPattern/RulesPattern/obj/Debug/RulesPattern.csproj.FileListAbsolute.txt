@@ -1,0 +1,9 @@
+c:\users\richard\documents\visual studio 2013\Projects\Patterns\RulesPattern\RulesPattern\bin\Debug\RulesPattern.exe.config
+c:\users\richard\documents\visual studio 2013\Projects\Patterns\RulesPattern\RulesPattern\bin\Debug\RulesPattern.exe
+c:\users\richard\documents\visual studio 2013\Projects\Patterns\RulesPattern\RulesPattern\bin\Debug\RulesPattern.pdb
+c:\users\richard\documents\visual studio 2013\Projects\Patterns\RulesPattern\RulesPattern\obj\Debug\RulesPattern.csprojResolveAssemblyReference.cache
+c:\users\richard\documents\visual studio 2013\Projects\Patterns\RulesPattern\RulesPattern\obj\Debug\RulesPattern.exe
+c:\users\richard\documents\visual studio 2013\Projects\Patterns\RulesPattern\RulesPattern\obj\Debug\RulesPattern.pdb
+C:\Users\Richard\Documents\Source Control\Patterns\RulesPattern\RulesPattern\bin\Debug\RulesPattern.exe.config
+C:\Users\Richard\Documents\Source Control\Patterns\RulesPattern\RulesPattern\obj\Debug\RulesPattern.exe
+C:\Users\Richard\Documents\Source Control\Patterns\RulesPattern\RulesPattern\obj\Debug\RulesPattern.pdb

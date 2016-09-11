@@ -1,0 +1,6 @@
+c:\users\richard\documents\visual studio 2013\Projects\Patterns\DisposablePattern\DisposablePattern\bin\Debug\DisposablePattern.exe.config
+c:\users\richard\documents\visual studio 2013\Projects\Patterns\DisposablePattern\DisposablePattern\bin\Debug\DisposablePattern.exe
+c:\users\richard\documents\visual studio 2013\Projects\Patterns\DisposablePattern\DisposablePattern\bin\Debug\DisposablePattern.pdb
+c:\users\richard\documents\visual studio 2013\Projects\Patterns\DisposablePattern\DisposablePattern\obj\Debug\DisposablePattern.csprojResolveAssemblyReference.cache
+c:\users\richard\documents\visual studio 2013\Projects\Patterns\DisposablePattern\DisposablePattern\obj\Debug\DisposablePattern.exe
+c:\users\richard\documents\visual studio 2013\Projects\Patterns\DisposablePattern\DisposablePattern\obj\Debug\DisposablePattern.pdb

@@ -1,0 +1,3 @@
+c:\users\richard\documents\visual studio 2013\Projects\Patterns\RepositoryPattern\RepositoryPattern\bin\Debug\RepositoryPattern.exe.config
+C:\Users\Richard\documents\visual studio 2013\Projects\Patterns\RepositoryPattern\RepositoryPattern\obj\Debug\RepositoryPattern.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Documents\Source Control\Patterns\RepositoryPattern\RepositoryPattern\bin\Debug\RepositoryPattern.exe.config

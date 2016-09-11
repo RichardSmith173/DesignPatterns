@@ -1,0 +1,6 @@
+C:\Users\Richard\Documents\Source Control\Patterns\FacadePattern\FacadePattern\bin\Debug\FacadePattern.exe.config
+C:\Users\Richard\Documents\Source Control\Patterns\FacadePattern\FacadePattern\bin\Debug\FacadePattern.exe
+C:\Users\Richard\Documents\Source Control\Patterns\FacadePattern\FacadePattern\bin\Debug\FacadePattern.pdb
+C:\Users\Richard\Documents\Source Control\Patterns\FacadePattern\FacadePattern\obj\Debug\FacadePattern.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Documents\Source Control\Patterns\FacadePattern\FacadePattern\obj\Debug\FacadePattern.exe
+C:\Users\Richard\Documents\Source Control\Patterns\FacadePattern\FacadePattern\obj\Debug\FacadePattern.pdb

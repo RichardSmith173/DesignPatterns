@@ -1,0 +1,10 @@
+C:\Users\Richard\Documents\Source Control\VisitorPattern\VisitorPattern\bin\Debug\VisitorPattern.dll
+C:\Users\Richard\Documents\Source Control\VisitorPattern\VisitorPattern\bin\Debug\VisitorPattern.pdb
+C:\Users\Richard\Documents\Source Control\VisitorPattern\VisitorPattern\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Richard\Documents\Source Control\VisitorPattern\VisitorPattern\obj\Debug\VisitorPattern.dll
+C:\Users\Richard\Documents\Source Control\VisitorPattern\VisitorPattern\obj\Debug\VisitorPattern.pdb
+C:\Users\Richard\Documents\Source Control\Patterns\VisitorPattern\VisitorPattern\bin\Debug\VisitorPattern.dll
+C:\Users\Richard\Documents\Source Control\Patterns\VisitorPattern\VisitorPattern\bin\Debug\VisitorPattern.pdb
+C:\Users\Richard\Documents\Source Control\Patterns\VisitorPattern\VisitorPattern\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Richard\Documents\Source Control\Patterns\VisitorPattern\VisitorPattern\obj\Debug\VisitorPattern.dll
+C:\Users\Richard\Documents\Source Control\Patterns\VisitorPattern\VisitorPattern\obj\Debug\VisitorPattern.pdb
