@@ -42,9 +42,9 @@ namespace CommandPattern
             }
         }
 
-        public void Compute(char @operator, int operand)
+        public void Compute(char operation, int operand)
         {
-            ICommand command = new CalculatorCommand(_calculator, @operator, operand);
+            ICommand command = new CalculatorCommand(_calculator, operation, operand);
 
             command.Execute();
             
