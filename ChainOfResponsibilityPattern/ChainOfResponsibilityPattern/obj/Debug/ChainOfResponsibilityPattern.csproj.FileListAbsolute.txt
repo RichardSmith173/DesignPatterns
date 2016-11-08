@@ -1,1 +1,0 @@
-C:\Users\Richard\Documents\Source Control\Patterns\ChainOfResponsibilityPattern\ChainOfResponsibilityPattern\bin\Debug\ChainOfResponsibilityPattern.exe.config
