@@ -1,6 +1,1 @@
 C:\Users\Richard\Documents\Source Control\Patterns\ChainOfResponsibilityPattern\ChainOfResponsibilityPattern\bin\Debug\ChainOfResponsibilityPattern.exe.config
-C:\Users\Richard\Documents\Source Control\Patterns\ChainOfResponsibilityPattern\ChainOfResponsibilityPattern\bin\Debug\ChainOfResponsibilityPattern.exe
-C:\Users\Richard\Documents\Source Control\Patterns\ChainOfResponsibilityPattern\ChainOfResponsibilityPattern\bin\Debug\ChainOfResponsibilityPattern.pdb
-C:\Users\Richard\Documents\Source Control\Patterns\ChainOfResponsibilityPattern\ChainOfResponsibilityPattern\obj\Debug\ChainOfResponsibilityPattern.csprojResolveAssemblyReference.cache
-C:\Users\Richard\Documents\Source Control\Patterns\ChainOfResponsibilityPattern\ChainOfResponsibilityPattern\obj\Debug\ChainOfResponsibilityPattern.exe
-C:\Users\Richard\Documents\Source Control\Patterns\ChainOfResponsibilityPattern\ChainOfResponsibilityPattern\obj\Debug\ChainOfResponsibilityPattern.pdb
