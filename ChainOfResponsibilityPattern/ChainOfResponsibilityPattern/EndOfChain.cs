@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace ChainOfResponsibilityPattern
 {
-    class Program
+    class EndOfChain : Responsibilty
     {
-        static void Main(string[] args)
+        public override void HandleRequest(decimal expenseAmount)
         {
+            Console.WriteLine("This request cannot be handled.");
         }
     }
 }
